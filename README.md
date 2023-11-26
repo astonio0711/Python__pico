@@ -12,3 +12,5 @@ https://youtube.com/live/pVvPs_qJhNY
 
 老師github
 https://github.com/roberthsu2003/
+
+強制同步 (解決REPO與Codespace修改不一致): git push --force
