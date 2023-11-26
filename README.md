@@ -14,3 +14,4 @@ https://youtube.com/live/pVvPs_qJhNY
 https://github.com/roberthsu2003/
 
 強制同步 (解決REPO與Codespace修改不一致): git push --force
+同步設定: git config --global --add pull.rebase true
